@@ -1,0 +1,24 @@
+img {
+    width: 350px;
+}
+
+div {
+    border: 3px dashed red;
+    padding: 0px 10px;
+    margin: 10px;
+    max-width: 500px;
+    font-family: Arial;
+}
+
+.header,
+h2 {
+    text-align: center;
+}
+
+.menu,
+.total {
+    background-color: red;
+    color: white;
+    border: 3px dashed maroon;
+
+}
