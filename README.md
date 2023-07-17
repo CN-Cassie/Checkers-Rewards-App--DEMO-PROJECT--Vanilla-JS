@@ -1,1 +1,0 @@
-# Checkers-Rewards-App--DEMO-PROJECT--Vanilla-JS
